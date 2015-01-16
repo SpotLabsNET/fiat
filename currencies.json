@@ -1,3 +1,15 @@
 {
+  "aud": "\\Fiat\\AustralianDollar",
+  "cad": "\\Fiat\\CanadianDollar",
+  "dkk": "\\Fiat\\DanishKrone",
+  "eur": "\\Fiat\\Euro",
+  "inr": "\\Fiat\\IndianRupee",
+  "ils": "\\Fiat\\IsraeliNewShekel",
+  "nzd": "\\Fiat\\NewZealandDollar",
+  "pln": "\\Fiat\\PolishZloty",
+  "gbp": "\\Fiat\\PoundSterling",
+  "cny": "\\Fiat\\Renminbi",
+  "sgd": "\\Fiat\\SingaporeDollar",
+  "krw": "\\Fiat\\SouthKoreanWon",
   "usd": "\\Fiat\\UnitedStatesDollar"
 }

@@ -2,11 +2,10 @@
 
 namespace Fiat;
 
-use \Monolog\Logger;
 use \Openclerk\Currencies\FiatCurrency;
 
 /**
- * Represents the Netcoin cryptocurrency.
+ * Represents the USD fiat currency.
  */
 class UnitedStatesDollar extends FiatCurrency {
 
@@ -15,7 +14,11 @@ class UnitedStatesDollar extends FiatCurrency {
   }
 
   function getName() {
-    return "United States Dollar";
+    return "United States dollar";
+  }
+
+  function getURL() {
+    return "http://en.wikipedia.org/wiki/United_States_dollar";
   }
 
 }
