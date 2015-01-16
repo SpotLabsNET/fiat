@@ -1,0 +1,17 @@
+{
+  "name": "openclerk/fiat",
+  "description": "Definitions and implementations of fiat currencies in Openclerk",
+  "autoload": {
+    "psr-4": {
+      "Fiat\\": "src",
+      "Fiat\\Tests\\": "test"
+    }
+  },
+  "require": {
+    "openclerk/config": "dev-master",
+    "openclerk/currencies": "dev-master"
+  },
+  "require-dev": {
+    "soundasleep/component-tests": "dev-master"
+  }
+}
