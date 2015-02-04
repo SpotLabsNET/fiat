@@ -10,7 +10,7 @@ use \Openclerk\Currencies\FiatCurrency;
 class IndianRupee extends FiatCurrency {
 
   function getCode() {
-    return "irr";
+    return "inr";
   }
 
   function getName() {
