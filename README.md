@@ -1,4 +1,4 @@
-openclerk/fiat
+openclerk/fiat [![Build Status](https://travis-ci.org/openclerk/fiat.svg?branch=master)](https://travis-ci.org/openclerk/fiat)
 ==============
 
 A library for describing fiat currencies, used by [Openclerk](http://openclerk.org)
